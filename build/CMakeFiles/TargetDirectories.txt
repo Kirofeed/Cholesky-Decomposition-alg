@@ -1,0 +1,3 @@
+C:/Users/drozh/Desktop/MethodsOfCalculations/build/CMakeFiles/MyProject.dir
+C:/Users/drozh/Desktop/MethodsOfCalculations/build/CMakeFiles/edit_cache.dir
+C:/Users/drozh/Desktop/MethodsOfCalculations/build/CMakeFiles/rebuild_cache.dir

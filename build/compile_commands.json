@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/drozh/Desktop/MethodsOfCalculations/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=c++20 -Wall -Wextra -pedantic -o CMakeFiles\\MyProject.dir\\main.cpp.obj -c C:\\Users\\drozh\\Desktop\\MethodsOfCalculations\\main.cpp",
+  "file": "C:/Users/drozh/Desktop/MethodsOfCalculations/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/main.cpp.obj"
+}
+]
